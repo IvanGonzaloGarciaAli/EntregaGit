@@ -1,0 +1,4 @@
+Para SI he escogido un archivo PDF de un trabajo que hicimos hace un tiempo
+Para Programacion he escogido un .java de un ejercicio con bucles anidados sobre la primitiva(loteria).
+Para entornos tengo un txt vacio que podre modificar mas adelante.
+Para lenguaje de marcas he escogido un .html sobre una pagina rellena de fotos y texto.
